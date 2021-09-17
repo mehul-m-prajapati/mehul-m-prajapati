@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello Awesome people
 
-- 🔭 I’m currently working on full stack development
-- 🌱 I’m currently learning React.js, Node.js, AWS.
-- 👯 I’m looking to collaborate on Javascript, Python
-- 💬 Ask me about C, Python, Linux
-- 📫 How to reach me: 
-- 😄 Pronouns: Problem Solver
-- ⚡ Fun fact: I play chess for relaxation.
+🔭 I'm a full stack developer with lots of interest in Javascript, Typescript, Python, AWS and Node.js.
+
+I do some cool projects and play chess in my free time.🌱 I am building a [youtube channel](https://www.youtube.com/channel/UCtHXEeVll9qd6ELW27Jc7nA) where I talk about programming concepts, front-end development and back-end development. I will publish all the related code on github.
+
