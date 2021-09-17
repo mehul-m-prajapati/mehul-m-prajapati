@@ -4,3 +4,5 @@
 
 :octocat: I do some cool projects and play chess in my free time.🌱 I am building a [youtube channel](https://www.youtube.com/channel/UCtHXEeVll9qd6ELW27Jc7nA) where I talk about programming concepts, front-end development and back-end development. I will publish all the related code on github.
 
+✍️ I also write blogs on [medium](https://medium.com/@Mehul2802) about various tips and tricks.
+
