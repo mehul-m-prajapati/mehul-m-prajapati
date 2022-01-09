@@ -1,8 +1,22 @@
-### Hello Awesome people
+<h1 align="center">Hello Awesome people <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Mehul here</h3>
 
-🔭 I'm a full stack developer with lots of interest in Javascript, Typescript, Python, AWS and Node.js.
+<div align=center>
+  <a href="https://www.linkedin.com/in/mehulmp/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
+  <a href="https://twitter.com/mehul2802"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+  <br><br>
+</div>
 
-:octocat: I do some cool projects and play chess in my free time.🌱 
+👨‍💻 I am a full stack developer. I like building cool software products and learn new technologies. 
 
 ✍️ I write blogs on [medium](https://medium.com/@Mehul2802) about various software tips and tricks.
 
+<br>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongo" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="express" width="40" height="40"/>
+</p>
+<br>
+  
