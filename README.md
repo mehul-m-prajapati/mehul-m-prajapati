@@ -9,7 +9,7 @@
 
 👨‍💻 I am a full stack developer. I like building cool software products and learn new technologies. 
 
-▶️ I create videos on [YouTube](https://www.youtube.com/c/MehulPrajapati28).
+<!-- ▶️ I create videos on [YouTube](https://www.youtube.com/c/MehulPrajapati28). -->
 
 ✍️ I write blogs on [medium](https://medium.com/@Mehul2802) about various software tips and tricks.
 
