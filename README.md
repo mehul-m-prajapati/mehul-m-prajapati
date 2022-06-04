@@ -1,4 +1,4 @@
-<h1 align="center">Hello Awesome people <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello Awesome people</h1> <!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
 <h3 align="center">Mehul here</h3>
 
 <div align="center">
