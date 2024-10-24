@@ -8,9 +8,6 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 
 </tr>
 </table>
- 
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology</h1>
-
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
