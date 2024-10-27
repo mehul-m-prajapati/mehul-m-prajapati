@@ -10,7 +10,7 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=c,java,python,javascript,typescript&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c,java,python&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
@@ -18,7 +18,7 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,typescript" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
