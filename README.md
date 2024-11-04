@@ -4,9 +4,7 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%237289DA.svg?logo=twitter&logoColor=white)](https://www.x.com/mehul2802) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulmp) 
 
-## 💻 Tech Stack:
-
-## Languages, Tools and Technologies 🚀
+## 💻 Tech Stack: 🚀
 
 | Programming Languages        | Frontend Development       | Backend Development         |
 |------------------------------|----------------------------|-----------------------------|
