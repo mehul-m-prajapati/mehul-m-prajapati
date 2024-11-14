@@ -3,8 +3,7 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%237289DA.svg?logo=twitter&logoColor=white)](https://www.x.com/mehul2802) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulmp) [![Website](https://img.shields.io/badge/Portfolio-Mehul--Prajapati-blue)](https://mehul-m-prajapati.github.io/portfolio/)
-
-[Topmate Booking](https://topmate.io/mehul_prajapati/)
+[![Topmate](https://img.shields.io/badge/Topmate-Mehul--Prajapati-orange)](https://topmate.io/mehul_prajapati/)
 
 
 ## 💻 Tech Stack: 🚀
@@ -16,12 +15,10 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 | **Database Technologies**         | **Frameworks**                | **Developer Tools**             |
 | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Postgres](https://skillicons.dev/icons?i=postgres) | ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
 
-
-
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehul-m-prajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehul-m-prajapati&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-m-prajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mehul-m-prajapati&theme=light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehul-m-prajapati&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-m-prajapati&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mehul-m-prajapati&icon=0&color=0)](https://visitcount.itsvg.in)
