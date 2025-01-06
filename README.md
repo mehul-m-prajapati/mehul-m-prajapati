@@ -12,7 +12,7 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 |------------------------------|----------------------------|-----------------------------|
 | C, C++, Java, Python | HTML5, CSS3, JavaScript, TypeScript | Node.js, Express, Flask |
 |                              |                            |                             |
-| **Database Technologies**         | **Frameworks**                | **Dev Ops**             |
+| **Databases**         | **Frameworks**                | **Dev-Ops**             |
 | MySQL, MongoDB, Postgres | React, Angular, Next.js | Docker, AWS, GitHub Actions (CI/CD) |
 
 ## 📊 GitHub Stats:
