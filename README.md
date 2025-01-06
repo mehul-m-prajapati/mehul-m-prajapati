@@ -8,12 +8,29 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 
 ## 💻 Tech Stack:
 
-| Programming Languages        | Frontend Development       | Backend Development         |
-|------------------------------|----------------------------|-----------------------------|
-| C, C++, Java, Python | HTML5, CSS3, JavaScript, TypeScript | Node.js, Express, Flask |
-|                              |                            |                             |
-| **Databases**         | **Frameworks**                | **Dev-Ops**             |
-| MySQL, MongoDB, Postgres | React, Angular, Next.js | Docker, AWS, GitHub Actions (CI/CD) |
+<table>
+  <tr>
+    <th align="center">Programming Languages</th>
+    <th align="center">Frontend Development</th>
+    <th align="center">Backend Development</th>
+  </tr>
+  <tr>
+    <td align="center">C, C++, Java, Python</td>
+    <td align="center">HTML5, CSS3, JavaScript, TypeScript</td>
+    <td align="center">Node.js, Express, Flask</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td align="center"><b>Frameworks</b></td>
+    <td align="center"><b>Dev-Ops</b></td>
+  </tr>
+  <tr>
+    <td align="center">MySQL, MongoDB, Postgres</td>
+    <td align="center">React, Angular, Next.js</td>
+    <td align="center">Docker, AWS, GitHub Actions (CI/CD)</td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mehul-m-prajapati&theme=light&hide_border=false&include_all_commits=true&count_private=false)<br/>
