@@ -6,14 +6,14 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 [![Topmate](https://img.shields.io/badge/Topmate-Mehul--Prajapati-orange)](https://topmate.io/mehul_prajapati/)
 
 
-## 💻 Tech Stack: 🚀
+## 💻 Tech Stack:
 
 | Programming Languages        | Frontend Development       | Backend Development         |
 |------------------------------|----------------------------|-----------------------------|
-| ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=expressjs) ![Flask](https://skillicons.dev/icons?i=flask) |
+| C, C++, Java, Python | HTML5, CSS3, JavaScript, TypeScript | Node.js, Express, Flask |
 |                              |                            |                             |
-| **Database Technologies**         | **Frameworks**                | **Developer Tools**             |
-| ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Postgres](https://skillicons.dev/icons?i=postgres) | ![React](https://skillicons.dev/icons?i=react) ![Angular](https://skillicons.dev/icons?i=angular) ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) |
+| **Database Technologies**         | **Frameworks**                | **Dev Ops**             |
+| MySQL, MongoDB, Postgres | React, Angular, Next.js | Docker, AWS, GitHub Actions (CI/CD) |
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mehul-m-prajapati&theme=light&hide_border=false&include_all_commits=true&count_private=false)<br/>
