@@ -19,6 +19,7 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
     <td align="center">HTML5, CSS3, JavaScript, TypeScript</td>
     <td align="center">Node.js, Express, Flask</td>
   </tr>
+  <tr><td></td></tr>
   <tr>
     <td align="center"><b>Databases</b></td>
     <td align="center"><b>Frameworks</b></td>
