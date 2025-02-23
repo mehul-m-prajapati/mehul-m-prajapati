@@ -34,9 +34,9 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehul-m-prajapati&theme=light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mehul-m-prajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mehul-m-prajapati&theme=light&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-m-prajapati&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-m-prajapati&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 <img src="https://komarev.com/ghpvc/?username=mehul-m-prajapati&label=Profile%20views&color=7209b7&style=flat" alt="Profile Views" />
