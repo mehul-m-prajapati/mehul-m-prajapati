@@ -41,7 +41,7 @@ I'm Mehul, I have completed a master's in computer science from Concordia Univer
 ---
 <img src="https://komarev.com/ghpvc/?username=mehul-m-prajapati&label=Profile%20views&color=7209b7&style=flat" alt="Profile Views" />
 
-  ## 💰 You can sponsor my open-source contribution on:
+  ## 💰 You can sponsor my open-source contributions on,
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mehul2802) 
 
   
