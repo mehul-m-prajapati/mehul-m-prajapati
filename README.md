@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm Mehul, I have completed a master's in computer science from Concordia University, Montreal.<br>I am a full stack developer. I like building cool software products and learning new technologies.
+I'm Mehul, I have completed a master's in computer science from Concordia University, Montreal, Canada.<br>I am a full-stack developer. I like building cool software products and learning new technologies.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%237289DA.svg?logo=twitter&logoColor=white)](https://www.x.com/mehul2802) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulmp) [![Website](https://img.shields.io/badge/Portfolio-Mehul--Prajapati-blue)](https://www.mehul-dev.co/)
