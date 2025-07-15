@@ -3,7 +3,7 @@ I'm Mehul, I have completed a Master's in Computer Science from Concordia Univer
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%237289DA.svg?logo=twitter&logoColor=white)](https://www.x.com/mehul2802) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulmp) [![Website](https://img.shields.io/badge/Portfolio-Mehul--Prajapati-blue)](https://www.mehul-dev.co/)
-[![Topmate](https://img.shields.io/badge/Topmate-Mehul--Prajapati-orange)](https://topmate.io/mehul_prajapati/)
+[![Topmate](https://img.shields.io/badge/Topmate-Mehul--Prajapati-orange)](https://topmate.io/mehulmp)
 
 
 ## 💻 Tech Stack:
