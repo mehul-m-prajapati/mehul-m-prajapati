@@ -34,9 +34,16 @@ I'm Mehul, I have completed a Master's in Computer Science from Concordia Univer
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehul-m-prajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=mehul-m-prajapati&theme=light&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehul-m-prajapati&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table align="">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mehul-m-prajapati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehul-m-prajapati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+    </td>
+  </tr>
+</table>
 
 ---
 <img src="https://komarev.com/ghpvc/?username=mehul-m-prajapati&label=Profile%20views&color=7209b7&style=flat" alt="Profile Views" />
