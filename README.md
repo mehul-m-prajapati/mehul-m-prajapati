@@ -27,7 +27,7 @@ I'm Mehul, I have completed a Master's in Computer Science from Concordia Univer
   </tr>
   <tr>
     <td align="center">MySQL, MongoDB, Postgres</td>
-    <td align="center">React, Angular, Next.js</td>
+    <td align="center">React, Next.js</td>
     <td align="center">Docker, AWS, GitHub Actions (CI/CD)</td>
   </tr>
 </table>
